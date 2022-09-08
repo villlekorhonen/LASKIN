@@ -1,0 +1,2 @@
+# LASKIN
+Laskimen ensimmäinen versio
